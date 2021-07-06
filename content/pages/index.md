@@ -8,7 +8,7 @@ sections:
     content: |
       Data scientist | AI enthusiast.
     actions:
-      - label: Let's talk
+      - label: Contact
         url: /contact
         style: button
   - section_id: latest-projects
