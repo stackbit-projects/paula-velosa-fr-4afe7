@@ -18,7 +18,7 @@ sections:
         style: icon
         icon: instagram
         new_window: true
-      - label: Contact
+      - label: Github
         url: /contact
         style: button
         icon: twitter
