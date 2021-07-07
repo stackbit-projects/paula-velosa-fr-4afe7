@@ -12,7 +12,7 @@ sections:
         url: https://twitter.com/pvelosar
         style: icon
         icon: twitter
-        
+        new_window: true
       - label: Contact
         url: /contact
         style: button
