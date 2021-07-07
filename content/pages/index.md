@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Twitter
         url: https://twitter.com/pvelosar
-        style: button
+        style: icon
       - label: Contact
         url: /contact
         style: button
