@@ -20,7 +20,7 @@ sections:
         new_window: true
       - label: Github
         url: https://github.com/pvelosa
-        style: button
+        style: github
         icon: twitter
         new_window: true
       - label: Contact
