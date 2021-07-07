@@ -28,7 +28,6 @@ sections:
         style: icon
         icon: linkedin
         new_window: true
-    action:
       - label: Twitter
         url: https://twitter.com/pvelosar
         style: button
