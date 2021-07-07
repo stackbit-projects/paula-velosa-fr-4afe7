@@ -21,7 +21,7 @@ sections:
       - label: Github
         url: https://github.com/pvelosa
         style: github
-        icon: twitter
+        icon: github
         new_window: true
       - label: LinkedIn
         url: https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/
