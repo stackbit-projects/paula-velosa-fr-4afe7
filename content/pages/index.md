@@ -31,7 +31,7 @@ sections:
     action:
       - label: Twitter
         url: https://twitter.com/pvelosar
-        style: icon
+        style: button
         icon: twitter
         new_window: true
   - section_id: latest-posts
