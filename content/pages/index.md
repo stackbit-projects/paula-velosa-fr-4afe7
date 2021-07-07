@@ -24,7 +24,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Last projects
-    projects_number: 6
+    projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
 seo:
