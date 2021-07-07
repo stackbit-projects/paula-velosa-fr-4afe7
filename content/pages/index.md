@@ -9,7 +9,7 @@ sections:
       Data scientist | AI enthusiast.
     actions:
       - label: Twitter
-        url: /contact
+        url: https://twitter.com/pvelosar
         style: button
       - label: Contact
         url: /contact
