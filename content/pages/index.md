@@ -13,7 +13,7 @@ sections:
         style: button
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: Les derniers articles
     subtitle: An optional subtitle of the section
     projects_number: 6
