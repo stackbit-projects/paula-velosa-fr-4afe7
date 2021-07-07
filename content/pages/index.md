@@ -8,7 +8,7 @@ sections:
     content: |
       Data scientist | AI enthusiast.
     actions:
-      - label: Contact
+      - label: Twitter
         url: /contact
         style: button
       - label: Contact
