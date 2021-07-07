@@ -16,12 +16,18 @@ sections:
       - label: Contact
         url: /contact
         style: button
+        icon: twitter
+        new_window: true
       - label: Contact
         url: /contact
         style: button
+        icon: twitter
+        new_window: true
       - label: Contact
         url: /contact
         style: button
+        icon: twitter
+        new_window: true
   - section_id: latest-posts
     type: section_posts
     title: Data journaling
