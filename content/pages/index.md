@@ -13,7 +13,7 @@ sections:
         style: button
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
+    title: Data journaling
     posts_number: 3
     col_number: three
     actions:
