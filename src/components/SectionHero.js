@@ -16,11 +16,11 @@ export default class SectionHero extends React.Component {
             <section id={sectionId} className="block block-hero outer outer--main">
                 <div className="inner">
                     {title && (
-                        <div className="block-header inner-sm  ">
+                        <div className="block-header inner-sm inner--main ">
                             <h1 className="block-title">{title}</h1>
                         </div>
                     )}
-                    {content && <div className="block-content inner-sm">{markdownify(content)}</div>}
+                    {content && <div className="block-content inner-sm inner--main">{markdownify(content)}</div>}
                     {actions && (
                         <div className="block-buttons inner-sm">
                             <CtaButtons actions={actions} />
