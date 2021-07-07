@@ -27,9 +27,6 @@ sections:
     projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
-seo:
-  title: Stackbit Exto Theme
-  description: The preview of the Exto theme
 
 layout: advanced
 ---
