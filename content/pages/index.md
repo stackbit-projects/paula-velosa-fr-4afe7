@@ -29,7 +29,11 @@ sections:
         icon: linkedin
         new_window: true
     action:
-    
+      - label: Twitter
+        url: https://twitter.com/pvelosar
+        style: icon
+        icon: twitter
+        new_window: true
   - section_id: latest-posts
     type: section_posts
     title: Data journaling
