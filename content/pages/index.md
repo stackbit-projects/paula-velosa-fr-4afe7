@@ -29,7 +29,7 @@ sections:
         icon: linkedin
         new_window: true
       - label: contact me
-        url: https://twitter.com/pvelosar
+        url: /
         style: button
         icon: twitter
         new_window: true
