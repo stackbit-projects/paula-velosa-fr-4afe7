@@ -23,7 +23,7 @@ sections:
         style: github
         icon: twitter
         new_window: true
-      - label: Contact
+      - label: LinkedIn
         url: /contact
         style: button
         icon: twitter
