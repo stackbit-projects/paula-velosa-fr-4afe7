@@ -11,6 +11,7 @@ sections:
       - label: Twitter
         url: https://twitter.com/pvelosar
         style: icon
+        icon: 
       - label: Contact
         url: /contact
         style: button
