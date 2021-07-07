@@ -23,11 +23,6 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
                 "label": "À propos",
                 "url": "/about/",
                 "style": "link"
