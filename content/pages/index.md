@@ -24,7 +24,7 @@ sections:
         icon: twitter
         new_window: true
       - label: LinkedIn
-        url: /contact
+        url: https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/
         style: button
         icon: twitter
         new_window: true
