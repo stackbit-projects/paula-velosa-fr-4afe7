@@ -13,7 +13,7 @@ sections:
         style: icon
         icon: twitter
         new_window: true
-      - label: Contact
+      - label: Instagram
         url: /contact
         style: button
         icon: twitter
