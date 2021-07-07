@@ -19,7 +19,7 @@ sections:
         icon: instagram
         new_window: true
       - label: Github
-        url: /contact
+        url: https://github.com/pvelosa
         style: button
         icon: twitter
         new_window: true
