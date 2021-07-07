@@ -31,8 +31,6 @@ sections:
       - label: contact me
         url: /contact
         style: button
-        icon: twitter
-        new_window: true
   - section_id: latest-posts
     type: section_posts
     title: Data journaling
