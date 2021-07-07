@@ -15,7 +15,7 @@ sections:
         new_window: true
       - label: Instagram
         url: https://www.instagram.com/danielavelosar
-        style: button
+        style: icon
         icon: twitter
         new_window: true
       - label: Contact
