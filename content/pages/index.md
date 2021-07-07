@@ -14,7 +14,9 @@ sections:
       - label: Contact
         url: /contact
         style: button
-
+      - label: Contact
+        url: /contact
+        style: button
       - label: Contact
         url: /contact
         style: button
