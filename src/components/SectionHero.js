@@ -16,7 +16,7 @@ export default class SectionHero extends React.Component {
             <section id={sectionId} className="block block-hero outer outer--main">
                 <div className="inner">
                     {title && (
-                        <div className="block-header inner-sm ">
+                        <div className="block-header inner-sm  ">
                             <h1 className="block-title">{title}</h1>
                         </div>
                     )}
