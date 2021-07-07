@@ -8,6 +8,11 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "Accueil",
+                "url": "/",
+                "style": "link"
+            },
+            {
                 "label": "Projets",
                 "url": "/portfolio/",
                 "style": "link"
@@ -30,11 +35,6 @@
             {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "link"
-            },
-            {
-                "label": "Accueil",
-                "url": "/",
                 "style": "link"
             }
         ],
