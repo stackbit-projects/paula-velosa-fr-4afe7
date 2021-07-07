@@ -28,6 +28,8 @@ sections:
         style: icon
         icon: linkedin
         new_window: true
+    action:
+    
   - section_id: latest-posts
     type: section_posts
     title: Data journaling
