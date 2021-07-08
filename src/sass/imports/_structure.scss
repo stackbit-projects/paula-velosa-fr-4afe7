@@ -45,7 +45,9 @@
 }
 
 @media only screen and (max-width: 600px) {
-  .
+  .outer--main{
+      height:100%;
+  }
   .site-content {
     padding-bottom: 3.33333em;
     padding-top: 3.33333em;
