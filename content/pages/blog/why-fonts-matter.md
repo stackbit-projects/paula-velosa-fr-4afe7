@@ -6,7 +6,7 @@ excerpt: >-
   there, but what if I tell you data could be the answer to fight against that
   feeling.
 date: '2021-07-07'
-thumb_image: images/12_thumb.jpg
+thumb_image: /images/magical-zucchini.jpg
 thumb_image_alt: A pile of books on the table
 image: /images/parallel-spruce.jpg
 image_alt: A pile of books on the table
