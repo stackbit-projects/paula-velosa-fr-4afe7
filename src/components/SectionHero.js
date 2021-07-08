@@ -18,6 +18,7 @@ export default class SectionHero extends React.Component {
                     {title && (
                         <div className="block-header inner-sm inner--main ">
                             <h1 className="block-title">{title}</h1>
+                            {subtitle && <p className="block-subtitle">{htmlToReact(subtitle)}</p>}
                         </div>
                     )}
                     {content && <div className="block-content inner-sm inner--main">{markdownify(content)}</div>}
