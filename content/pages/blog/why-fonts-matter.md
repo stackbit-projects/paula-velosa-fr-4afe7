@@ -44,12 +44,14 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Have you ever been paralyzed to try something new? have you ever thought that you or your work are not enough to be shared? It is okay, we´ve all been there, but what if I tell you data could be the answer to fight against that feeling. 
+Have you ever been paralyzed to try something new? Have you ever thought that you or your work are not enough to be shared? It is okay, we’ve
+all been there, but what if I tell you data could be the answer to fight against that feeling.
 
-Phasellus commodo dolor sit amet, consectetur adipiscing elit. Nam a finibus magna. Sed et pulvinar dolor. Suspendisse vitae iaculis lacus. Proin vulputate, leo eget pulvinar faucibus, felis est condimentum lorem, in rhoncus neque felis ac leo. Duis felis lectus, ultrices id dolor vel, tincidunt tristique nunc. Nullam quis orci magna. Proin eget nunc et dolor hendrerit eleifend. Praesent a vehicula justo, quis convallis lacus. Phasellus porttitor, turpis vel placerat condimentum, urna felis volutpat ligula, et ultricies arcu mi ac nisl. Cras id consectetur ligula, et mollis odio. Aenean erat dui, congue vitae nisi a, aliquet lobortis eros.
+Last week, when I was trying to find the perfect theme for starting a blog, I started feeling very anxious, I am not more than an engineering student, what could I share? It is the same feeling I have gotten for around one year. But, a video of Ali Abdaal was recommended to me by a friend. There, Ali explains how writing can be a gate for you to become better at different levels.
 
-> The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
+> Putting yourself out there could potentially bring you the best opportunities you can think of. — Ali Abdaal
 
-Sed augue lorem, porta nec lorem et, luctus egestas nunc. Sed in tellus at enim commodo pharetra. Mauris nisi ipsum, auctor nec justo non, lobortis ullamcorper magna. Pellentesque posuere posuere dolor, quis egestas est ultrices id. Cras at urna lectus. Curabitur in placerat ligula. Phasellus pharetra scelerisque lectus, id sagittis lorem pretium eget. Phasellus commodo nunc ante, nec commodo urna iaculis eu. Pellentesque euismod et ante quis vestibulum. Ut quis sapien nisi. Sed interdum sit amet sem et vestibulum. Maecenas tempor dictum leo, quis rutrum purus tincidunt vitae. Fusce vel turpis risus. Donec congue accumsan tempus. Nunc nec elit magna. Aenean luctus auctor ligula at lacinia.
+In that video Ali, also talks about maximizing serendipity, putting yourself out there could potentially bring you the best opportunities you can think of, this idea is very statistical, right? To some degree, Ali is inviting us to think in a data-driven way. It is all about probability. Chances are, you could get your dream job tomorrow, but you can surely increase them by study a little more today.
 
-Donec neque lorem, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+This data-driven mentality could be applied to pretty much every decision of your life. Next time you are doubting about taking a risk, think about the probability to win. Even if it is extremely low,  If you do not try, it will be even lower.
+
