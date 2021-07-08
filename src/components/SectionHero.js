@@ -14,7 +14,7 @@ export default class SectionHero extends React.Component {
         const actions = _.get(section, 'actions');
 
         return (
-            <section id={sectionId} className="block block-hero outer outer--main g">
+            <section id={sectionId} className="block block-hero outer outer--main glassmorphism-effect">
                 <div className="inner">
                     {(title || subtitle) && (
                         <div className="block-header inner-sm">
