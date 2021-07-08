@@ -8,7 +8,7 @@ excerpt: >-
 date: '2021-07-07'
 thumb_image: images/12_thumb.jpg
 thumb_image_alt: A pile of books on the table
-image: images/12.jpg
+image: /images/custom_resized_0228770f-5459-40ea-a38c-dddecd758db0.jpg
 image_alt: A pile of books on the table
 seo:
   title: Why Fonts Matter
