@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Paula.'
-    subtitle: |
+    subtitle: 
       Data scientist | AI enthusiast.
       
     actions:
