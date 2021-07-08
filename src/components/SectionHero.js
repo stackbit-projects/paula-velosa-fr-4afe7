@@ -26,6 +26,7 @@ export default class SectionHero extends React.Component {
                             <CtaButtons actions={actions} />
                         </div>
                     )}
+                    
                 </div>
             </section>
         );
