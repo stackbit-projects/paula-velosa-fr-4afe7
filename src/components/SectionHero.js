@@ -20,7 +20,6 @@ export default class SectionHero extends React.Component {
                             <h1 className="block-title">{title}</h1>
                         </div>
                     )}
-                    {subtitle && <p className="block-subtitle">{subtitle}</p>}
                     {content && <div className="block-content inner-sm inner--main">{markdownify(content)}</div>}
                     {actions && (
                         <div className="block-buttons inner-sm inner--main">
