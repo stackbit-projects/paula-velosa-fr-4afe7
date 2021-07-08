@@ -18,7 +18,7 @@ export default class SectionHero extends React.Component {
                 <div className="inner">
                     {(title || subtitle) && (
                         <div className="block-header inner-sm">
-                            {title && <h1 className="block-title line-top">{title}</h1>}
+                            {title && <h1 className="block-title ">{title}</h1>}
                             {subtitle && <p className="block-subtitle">{htmlToReact(subtitle)}</p>}
                         </div>
                     )}
