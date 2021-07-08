@@ -8,7 +8,7 @@ sections:
     content: 
       Data scientist | AI enthusiast.
       
-    actions:
+    url:
       - label: Twitter
         url: https://twitter.com/pvelosar
         style: icon
