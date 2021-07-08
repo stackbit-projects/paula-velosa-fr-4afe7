@@ -14,11 +14,12 @@ export default class SectionHero extends React.Component {
         const actions = _.get(section, 'actions');
 
         return (
-            <section id={sectionId} className="block block-header outer outer--main">
+            <section id={sectionId} className="block block-hero outer outer--main">
                 <div className="inner">
-                    {title && (
+                    {(title || subtitle) && (
                         <div className="block-header inner-sm">
-                            {title && <h1 className="block-header inner-sm inner--main ">{title}</h1>}
+                            {title && <h1 className="block-title line-top">{title}</h1>}
+                            {subtitle && <p className="block-subtitle">{htmlToReact(subtitle)}</p>}
                         </div>
                     )}
                     {content && <div className="block-content inner-sm inner--main">{markdownify(content)}</div>}
