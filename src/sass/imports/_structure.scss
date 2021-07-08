@@ -7,13 +7,19 @@
 
 }
 .outer--main{
-    
     display: flex;
     justify-content: center;
     align-items: center; 
     height: 60vh;
 }
-
+.glassmorphism-effect {
+    background: rgba( 255, 255, 255, 0.10 );
+    box-shadow: 08px32px0rgba( 31, 38, 135, 0.37 );
+    -webkit-backdrop-filter: blur( 4px );
+            backdrop-filter: blur( 4px );
+    border-radius: 16px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
 .inner {
   margin-left: auto;
   margin-right: auto;
