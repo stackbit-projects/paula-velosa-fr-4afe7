@@ -26,11 +26,7 @@ export default class SectionHero extends React.Component {
                             <CtaButtons actions={actions} />
                         </div>
                     )}
-                    {actions && (
-                        <div className="block-buttons inner-sm inner--main">
-                            <CtaButtons actions={actions} />
-                        </div>
-                    )}
+                    
                 </div>
             </section>
         );
