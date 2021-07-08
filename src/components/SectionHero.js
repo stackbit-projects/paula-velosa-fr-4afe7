@@ -24,7 +24,7 @@ export default class SectionHero extends React.Component {
                     )}
                     {content && <div className="block-content inner-sm inner--main ">{markdownify(content)}</div>}
                     {actions && (
-                        <div className="block-buttons inner-sm inner--main">
+                        <div className="block-buttons inner-sm inner--main line-top">
                             <CtaButtons actions={actions} />
                         </div>
                     )}
