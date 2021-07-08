@@ -1,9 +1,10 @@
 ---
 title: How data change mindsets
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+  Have you ever been paralyzed to try something new? have you ever thought that
+  you or your work are not enough to be shared? It is okay, we´ve all been
+  there, but what if I tell you data could be the answer to fight against that
+  feeling.
 date: '2021-07-07'
 thumb_image: images/12_thumb.jpg
 thumb_image_alt: A pile of books on the table
