@@ -28,7 +28,6 @@ sections:
         style: icon
         icon: linkedin
         new_window: true
-    actions:
       - label: contact me
         url: /contact
         style: button
