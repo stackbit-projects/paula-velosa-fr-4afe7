@@ -7,7 +7,7 @@ sections:
     title: 'Hi, I''m Paula.'
     content: |
       Data scientist | AI enthusiast.
-    actions:
+    content:
       - label: Twitter
         url: https://twitter.com/pvelosar
         style: icon
