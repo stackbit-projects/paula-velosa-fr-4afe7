@@ -26,7 +26,11 @@ export default class SectionHero extends React.Component {
                             <CtaButtons actions={actions} />
                         </div>
                     )}
-                    
+                    {hasSocial && !_.isEmpty(socialLinks) && (
+                            <div className="social-links">
+                                {_.map(socialLinks, (action, index) => <Action key={index} action={action} />)}
+                            </div>
+                        )}
                 </div>
             </section>
         );
