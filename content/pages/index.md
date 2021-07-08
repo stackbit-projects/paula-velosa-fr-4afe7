@@ -30,9 +30,6 @@ sections:
         icon: linkedin
         new_window: true
 
-      - label: contact me
-        url: /contact
-        style: button
   - section_id: latest-posts
     type: section_posts
     title: Data journaling
