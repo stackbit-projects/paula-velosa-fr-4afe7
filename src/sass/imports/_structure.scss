@@ -28,7 +28,9 @@
     display: flex;
     justify-content: center;
 }
-
+.inner--main:last-child(){
+    align-self: flex-end;
+}
 
 .site {
   min-height: 100vh;
