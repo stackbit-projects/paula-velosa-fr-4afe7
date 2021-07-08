@@ -22,7 +22,7 @@ export default class SectionHero extends React.Component {
                             {subtitle && <p className="block-subtitle">{htmlToReact(subtitle)}</p>}
                         </div>
                     )}
-                    {content && <div className="block-content inner-sm inner--main line-top">{markdownify(content)}</div>}
+                    {content && <div className="block-content inner-sm inner--main ">{markdownify(content)}</div>}
                     {actions && (
                         <div className="block-buttons inner-sm inner--main">
                             <CtaButtons actions={actions} />
