@@ -1,11 +1,6 @@
 ---
 title: 'Starting my first ml project '
-excerpt: >-
-  it has been a while since i decided to start data science journey, i reckon
-  i´ve learned the minimum enough to get started with my own project. I wish i
-  was able to do it before because, from what i´ve found, a project is the best
-  way possible to keep on track what you actually have learnt, i guess i´ll just
-  see by myself if that´s true or not..
+excerpt: "It has been a while since I decided to start data science journey,\_ yet I reckon i´ve learned the minimum enough to get started with my own project. i will tackle with your from a very beginner point of view."
 date: '2021-07-14'
 thumb_image: images/11_thumb.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
