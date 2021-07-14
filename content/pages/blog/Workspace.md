@@ -1,5 +1,5 @@
 ---
-title: 'Starting a project '
+title: 'Starting my first ml project '
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
