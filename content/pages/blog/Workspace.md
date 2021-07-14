@@ -57,3 +57,4 @@ That´s why i orginized myself as such:
 3. the program will take you to the spotify link
 
 
+for now, i found i´ll 
