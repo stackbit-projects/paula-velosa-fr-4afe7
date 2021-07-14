@@ -58,4 +58,4 @@ That´s why i orginized myself as such:
 
 
 for now, i think i will use simple html css and js for create the interface.
-i found as well a 
+i found as well a dataset from kaggle 
