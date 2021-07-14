@@ -57,4 +57,4 @@ That´s why i orginized myself as such:
 3. the program will take you to the spotify link
 
 
-for now, i found i´ll 
+for now, i think i will use simple html css and js for create the interface.
