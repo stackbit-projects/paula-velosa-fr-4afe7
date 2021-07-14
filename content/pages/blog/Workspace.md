@@ -51,3 +51,4 @@ This is my first step, i´m merely a beginer and that´s why i will document my 
 
 In the same threat, Alejandro (svino) talks about a really interesting aproach: try to divide your project into the features. Later, try to find the easiest way possible to accomplish every single one 
 
+That´s why i orginized myself as such:
