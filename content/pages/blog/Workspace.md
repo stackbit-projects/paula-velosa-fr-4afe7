@@ -58,4 +58,4 @@ That´s why i orginized myself as such:
 
 
 As my first aproac , i think i will use simple html css and js for create the interface.
-i found as well a dataset from kaggle about podcast reviews and i think i will go on with a classifier on whether people like it or not 
+i found as well a dataset from kaggle about podcast reviews and i think i will go on with a classifier on whether people like it or not, then i´ll asign it into  
