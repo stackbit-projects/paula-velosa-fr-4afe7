@@ -11,8 +11,7 @@ image_alt: A leather notebook and a pen on a wooden working table
 seo:
   title: starting my first ml project 
   description: >-
-    Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-    accumsan sapien blandit
+    ml project from a beginner point of view
   extra:
     - name: 'og:type'
       value: article
