@@ -62,4 +62,4 @@ i found as well a dataset from kaggle about podcast reviews and i think i will g
 
 nonetheless, i have plenty of ideas i think i would add into later, for example, firstly i would like to use my own dataset for recommend trendy podcast. then i would be amazing to use sentiment analysis in order to recommend in a better way, even face detection to see how you are feeling today!
 
-im not gonna lie im feeling very happy about starting a project, everybody says that the emotional part of creating a project is a bit of a slippery slope so i wanna to document it to see whether it is right or not.
+im not gonna lie im feeling very happy about starting a project, everybody says that the emotional part of creating a project is a bit of a slippery slope so i wanna to document my feeling journey as well to see whether it is right or not.
