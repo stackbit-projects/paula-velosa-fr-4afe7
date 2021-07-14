@@ -49,5 +49,5 @@ When you start everything comes down to a question: What am i gonna do? is this 
 
 This is my first step, i´m merely a beginer and that´s why i will document my journey from that perspective.
 
-In the same threat, Alejandro (svino) talks about a really interesting aproach: try to divide your project into the features it should have and try to find the easiest way possible to accomplish every single one 
+In the same threat, Alejandro (svino) talks about a really interesting aproach: try to divide your project into the features. try to find the easiest way possible to accomplish every single one 
 
