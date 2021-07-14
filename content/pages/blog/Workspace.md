@@ -57,7 +57,7 @@ That´s why i orginized myself as such:
 3. you,as user, should be able to actually listen to the podcast 
 
 
-As my first aproac , i think i will use simple html css and js for create the interface.
+As my first aproach , i think i will use simple html css and js for create the interface.
 i found as well a dataset from kaggle about podcast reviews and i think i will go on with a classifier on whether people like it or not, then i´ll asign it into  the page. probaly dividing into themes as well in order to recommend in the simplest way i can think of. Lastly i can think that the best way to listen to the podcast is by being redirected into spotify 
 
 nonetheless, i have plenty of ideas i think i would add into later, for example i want to use sentiment analysis in order
