@@ -1,6 +1,6 @@
 ---
 title: 'Starting my first ml project '
-excerpt: "It has been a while since I decided to start data science journey,\_ yet I reckon I've  learned the minimum enough to get started with my own project. I will tackle my project with you from a very beginner point of view."
+excerpt: "As a data science noob, I'm currently on the hunt for the most efficient learning path. Creating a project is highlighted as the most obvious step. However, yet I think I´ve learned the minimum enough to get started with it,\_ Something has had stopped me for a while, so I found the best way possible to keep on track: document it, I guess I´ll just see by myself if that´s true or not. But, for now, this blog will be an up-to-date journey of my process/feelings throughout developing my own first ML project."
 date: '2021-07-14'
 thumb_image: images/11_thumb.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
