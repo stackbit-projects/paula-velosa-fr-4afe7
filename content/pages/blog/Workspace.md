@@ -9,7 +9,7 @@ thumb_image_alt: A leather notebook and a pen on a wooden working table
 image: images/11.jpg
 image_alt: A leather notebook and a pen on a wooden working table
 seo:
-  title: starting an ml begginer project 
+  title: starting my first ml begginer project 
   description: >-
     Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
     accumsan sapien blandit
