@@ -34,24 +34,24 @@ seo:
       relativeUrl: true
 layout: post
 ---
+As a data science noob, I'm currently on the hunt for the most efficient learning path. Creating a project is highlighted as the most obvious step. However, yet I think I've learned the minimum enough to get started with it,  Something has had stopped me for a while, so I found the best way possible to keep on track: document it, I guess I'll just see by myself if that's true or not. But, for now, this blog will be an up-to-date journey of my process/feelings throughout developing my own first ML project.
 
-it has been a while since i decided to start data science journey, i reckon i´ve learned the minimum enough to get started with my own project. I wish i was able to do it before because, from what i´ve found, a project is the best way possible to keep on track what you actually have learnt, i guess i´ll just see by myself if that´s true or not.
+When you start, everything comes down to a question: What am I going to do? Is this idea too much? Is it enough? For me, the best way possible to cope with that was simply not to think about it. I found a Twitter thread from @Svpino where he talks about several ml projects (I'm going to leave it down below) and I just picked the one which came to me the most: Music player. However, I wanted podcasts, why not?  a Podcast player sounded great!
 
-When you start everything comes down to a question: What am i gonna do? is this idea too much?, is it enough? For me, the best way possible to cope with that was simply not to think about it. I found a twitter thread from svino where he talks about several ml projects (im gonna leave it down below) and i just picked the one which came to me the most: Music player. However, i thought that podcasts will be a little bit more challenging so it came to be a Podcast player 
+In the same threat, Alejandro (@Svpino) talks about a fascinating approach: try to divide your project into features. Later, try to find the easiest way possible to accomplish every single one
 
-This is my first step, i´m merely a beginer and that´s why i will document my journey from that perspective.
+This is what I thought the project should have:
 
-In the same threat, Alejandro (svino) talks about a really interesting aproach: try to divide your project into the features. Later, try to find the easiest way possible to accomplish every single one 
+1.  an interface
 
-That´s why i orginized myself as such:
-1. it has to have an inteface
-2. need something to decide what podcast to recommend
-3. you,as user, should be able to actually listen to the podcast 
+2\. something to decide what podcast to recommend
+3.  Users should be able to actually listen to the podcast
 
 
-As my first aproach , i think i will use simple html css and js for create the interface.
-i found as well a dataset from kaggle about podcast reviews and i think i will go on with a classifier on whether people like it or not, then i´ll asign it into  the page. probaly dividing into themes as well in order to recommend in the simplest way i can think of. Lastly i can think that the best way to listen to the podcast is by being redirected into spotify 
+As my first approach, I think I will use simple HTML CSS, and JS to create the interface. I found as well a dataset from Kaggle about podcast reviews and I think I will use it with a classifier to decide whether people like it or not, then I'd rank it and add it to a recommendation page. Probably divided into themes as well, this is the simplest way I can think of. Lastly, I can think that the best way to listen to the podcast is by being redirected to Spotify.
 
-nonetheless, i have plenty of ideas i think i would add into later, for example, firstly i would like to use my own dataset for recommend trendy podcast. then i would be amazing to use sentiment analysis in order to recommend in a better way, even face detection to see how you are feeling today!
+Nonetheless, I have plenty of ideas I think I would add later. For example, firstly, I would like to use my own dataset to recommend the trendiest podcasts. Then it would be amazing to use sentiment analysis to recommend in a better way, even face detection, to see how you are feeling today!
 
-im not gonna lie im feeling very happy about starting a project, everybody says that the emotional part of creating a project is a bit of a slippery slope so i wanna to document my feeling journey as well to see whether it is right or not.
+I'm not gonna lie, I'm feeling very happy about starting a project at the moment, everybody says that the emotional part of creating a project is a bit of a slippery slope. Consider myself as your guinea pig documenting its feeling journey to see whether it is right or not.
+
+BTW,[ this](https://twitter.com/svpino/status/1413422853312102410?s=1006) is the Twitter threat :)
