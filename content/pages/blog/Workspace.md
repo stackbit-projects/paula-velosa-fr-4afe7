@@ -45,6 +45,6 @@ layout: post
 
 it has been a while since i decided to start data science journey, i reckon i´ve learned the minimum enough to get started with my own project. I wish i was able to do it before because, from what i´ve found, a project is the best way possible to keep on track what you actually have learnt, i guess i´ll just see by myself if that´s true or not.
 
-What am i gonna do? .
+When you start everything What am i gonna do? .
 
 Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
