@@ -1,6 +1,6 @@
 ---
 title: 'Starting my first ml project '
-excerpt: "It has been a while since I decided to start data science journey,\_ yet I reckon i´ve learned the minimum enough to get started with my own project. i will tackle with your from a very beginner point of view."
+excerpt: "It has been a while since I decided to start data science journey,\_ yet I reckon I´ve  learned the minimum enough to get started with my own project. i will tackle with your from a very beginner point of view."
 date: '2021-07-14'
 thumb_image: images/11_thumb.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
