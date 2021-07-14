@@ -21,8 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-        accumsan sapien blandit
+        ml project from a beginner point of view
       keyName: property
     - name: 'og:image'
       value: images/11.jpg
