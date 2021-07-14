@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Elements of Great Workplace Design
+      value: Starting my first ml project
     - name: 'twitter:description'
       value: >-
         Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
