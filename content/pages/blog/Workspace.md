@@ -18,7 +18,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Elements of Great Workplace Design
+      value: Starting a project
       keyName: property
     - name: 'og:description'
       value: >-
