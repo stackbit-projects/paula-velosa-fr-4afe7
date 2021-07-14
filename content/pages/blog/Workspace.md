@@ -33,8 +33,7 @@ seo:
       value: Starting my first ml project
     - name: 'twitter:description'
       value: >-
-        Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-        accumsan sapien blandit
+        ml project from a beginner point of view
     - name: 'twitter:image'
       value: images/11.jpg
       relativeUrl: true
