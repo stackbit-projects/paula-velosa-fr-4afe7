@@ -47,4 +47,7 @@ it has been a while since i decided to start data science journey, i reckon i´v
 
 When you start everything comes down to a question: What am i gonna do? is this idea too much?, is it enough? For me, the best way possible to cope with that was simply not to think about it. I found a twitter thread from svino where he talks about several ml projects (im gonna leave it down below) and i just picked the one which came to me the most: Music player. However, i thought that podcasts will be a little bit more challenging so it came to be a Podcast player 
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+This is my first step, i´m merely a beginer and that´s why i will document my journey from that perspective.
+
+
+
