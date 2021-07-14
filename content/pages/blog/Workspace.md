@@ -1,17 +1,19 @@
 ---
 title: 'Starting my first ml project '
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  it has been a while since i decided to start data science journey, i reckon
+  i´ve learned the minimum enough to get started with my own project. I wish i
+  was able to do it before because, from what i´ve found, a project is the best
+  way possible to keep on track what you actually have learnt, i guess i´ll just
+  see by myself if that´s true or not..
 date: '2021-07-14'
 thumb_image: images/11_thumb.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
 image: images/11.jpg
 image_alt: A leather notebook and a pen on a wooden working table
 seo:
-  title: starting my first ml project 
-  description: >-
-    ml project from a beginner point of view
+  title: starting my first ml project
+  description: ml project from a beginner point of view
   extra:
     - name: 'og:type'
       value: article
@@ -20,8 +22,7 @@ seo:
       value: Starting a project
       keyName: property
     - name: 'og:description'
-      value: >-
-        ml project from a beginner point of view
+      value: ml project from a beginner point of view
       keyName: property
     - name: 'og:image'
       value: images/11.jpg
@@ -32,8 +33,7 @@ seo:
     - name: 'twitter:title'
       value: Starting my first ml project
     - name: 'twitter:description'
-      value: >-
-        my first ml project from a beginner point of view
+      value: my first ml project from a beginner point of view
     - name: 'twitter:image'
       value: images/11.jpg
       relativeUrl: true
