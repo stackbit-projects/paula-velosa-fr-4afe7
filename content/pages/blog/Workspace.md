@@ -58,4 +58,6 @@ That´s why i orginized myself as such:
 
 
 As my first aproac , i think i will use simple html css and js for create the interface.
-i found as well a dataset from kaggle about podcast reviews and i think i will go on with a classifier on whether people like it or not, then i´ll asign it into  
+i found as well a dataset from kaggle about podcast reviews and i think i will go on with a classifier on whether people like it or not, then i´ll asign it into  the page. probaly dividing into themes as well in order to recommend in the simplest way i can think of.
+
+nonetheless, i have plenty of ideas i think i would add into later, for example i want to use sentiment analysis in order
