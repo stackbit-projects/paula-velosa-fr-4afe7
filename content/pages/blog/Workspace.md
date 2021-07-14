@@ -54,4 +54,4 @@ In the same threat, Alejandro (svino) talks about a really interesting aproach: 
 That´s why i orginized myself as such:
 1. it has to have an inteface
 2. need something to decide what podcast to recommend
-3. it has to 
+3. it has to takes you 
