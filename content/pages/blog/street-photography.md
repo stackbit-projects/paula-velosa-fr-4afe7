@@ -1,8 +1,5 @@
 ---
 title: Metrics first
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
 date: '2021-07-21'
 thumb_image: /images/10.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
