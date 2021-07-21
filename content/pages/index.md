@@ -49,4 +49,5 @@ seo:
   robots: []
   extra: []
   type: stackbit_page_meta
+  description: Data scientist blog and journal
 ---
