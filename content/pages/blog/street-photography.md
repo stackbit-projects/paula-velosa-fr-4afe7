@@ -38,6 +38,9 @@ seo:
       value: images/8.jpg
       relativeUrl: true
 layout: post
+excerpt: >-
+  Ok, so I have my project idea, what do I do next? Think about how you are
+  going to judge it first.
 ---
 Ok, so I have my project idea, what do I do next?  Think about how you are going to judge it first.
 
