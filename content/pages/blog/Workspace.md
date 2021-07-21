@@ -2,7 +2,7 @@
 title: 'Starting my first ml project '
 excerpt: '  Developing my own first ML project as a data science noob.'
 date: '2021-07-14'
-thumb_image: /images/6_thumb.jpg
+thumb_image: /images/11_thumb.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
 image: images/11.jpg
 image_alt: A leather notebook and a pen on a wooden working table
