@@ -46,7 +46,7 @@ sections:
 layout: advanced
 seo:
   title: ''
-  description: ''
+  description: z
   robots: []
   extra: []
   type: stackbit_page_meta
