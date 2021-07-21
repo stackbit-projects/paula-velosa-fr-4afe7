@@ -45,7 +45,7 @@ sections:
     view_all_url: portfolio
 layout: advanced
 seo:
-  title: ''
+  title: Paula Daniela Velosa Romero
   robots: []
   extra: []
   type: stackbit_page_meta
