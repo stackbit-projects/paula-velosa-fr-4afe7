@@ -42,9 +42,31 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Ok, so I have my project idea, what do I do next?  Think about how you are going to judge it first.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo laoreet sit. Tincidunt id aliquet risus feugiat in ante. Non diam phasellus vestibulum lorem sed. Morbi quis commodo odio aenean. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Vel eros donec ac odio tempor orci dapibus ultrices. Facilisi morbi tempus iaculis urna id volutpat. Luctus accumsan tortor posuere ac. Sagittis orci a scelerisque purus semper eget. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Dolor purus non enim praesent. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Aliquam vestibulum morbi blandit cursus risus.
+When I was trying to figure out my project plan, I read the second chapter of [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/). Which establishes 3 steps to start your project. They were:
 
-Scelerisque fermentum dui faucibus in ornare quam viverra orci. Libero justo laoreet sit amet cursus. Gravida rutrum quisque non tellus orci. Ut sem nulla pharetra diam sit amet nisl suscipit. Lorem ipsum dolor sit amet consectetur adipiscing elit. Urna porttitor rhoncus dolor purus. Quisque non tellus orci ac auctor augue mauris augue. Consectetur adipiscing elit duis tristique sollicitudin. Vitae semper quis lectus nulla at volutpat. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Porta nibh venenatis cras sed felis eget velit. Ullamcorper malesuada proin libero nunc consequat interdum. Enim sed faucibus turpis in eu mi bibendum neque egestas. Facilisi morbi tempus iaculis urna. Rhoncus est pellentesque elit ullamcorper dignissim. Aenean et tortor at risus viverra adipiscing at in. Cursus euismod quis viverra nibh cras pulvinar mattis nunc sed. Sit amet aliquam id diam. Ut tristique et egestas quis ipsum suspendisse. Congue quisque egestas diam in arcu cursus.
+1.  Attempt to reproduce results from a similar open-source model. 
 
-Mattis enim ut tellus elementum sagittis. At volutpat diam ut venenatis tellus in metus vulputate eu. Habitant morbi tristique senectus et. Id aliquet lectus proin nibh nisl condimentum id venenatis. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Lectus vestibulum mattis ullamcorper velit sed. Semper viverra nam libero justo. Purus sit amet luctus venenatis. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Feugiat nibh sed pulvinar proin gravida.
+2.  Find a data set closer to your objectives and attempt to train the previous model on that dataset
+
+3.  Judge how the model works using the metrics you defined and start iterating
+
+well, metrics? This book talks about how to choose them as well. There are two kinds of metrics: project and model metrics, the first one talks about how the application tackles its main problem, and the latter is more about the ml model itself.
+
+In my case, the metrics I chose were:
+
+*   how many recommendations are actually clicked when they appear in the app,
+
+*   F-score
+
+ About the project metric, this book copes with a recommendation project as well. They define a similar metric for theirs, and I found it really useful for my project as well. Nevertheless, I'm still hesitating about it.
+
+For my model metric. As I will use text sentiment analysis for recommending the first results, I found [here](https://www.kdnuggets.com/2018/03/5-things-sentiment-analysis-classification.html#:~:text=As%20a%20classification%20problem%2C%20Sentiment,appropriate%20metric%20should%20be%20used.) that the most used evaluation metrics in this field are Precision, Recall, F-score, and Accuracy. Since F-score resembles the mixture of both the precision and recall score, I think this is the best approach for me at the moment.
+
+I would go on by leveraging open source code next.
+
+
+
+
+
