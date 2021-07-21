@@ -5,31 +5,28 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Paula.'
-    content: 
-      Data scientist | AI enthusiast.
-      
+    content: Data scientist | AI enthusiast.
     actions:
       - label: Twitter
-        url: https://twitter.com/pvelosar
+        url: 'https://twitter.com/pvelosar'
         style: icon
         icon: twitter
         new_window: true
       - label: Instagram
-        url: https://www.instagram.com/danielavelosar
+        url: 'https://www.instagram.com/danielavelosar'
         style: icon
         icon: instagram
         new_window: true
       - label: Github
-        url: https://github.com/pvelosa
+        url: 'https://github.com/pvelosa'
         style: icon
         icon: github
         new_window: true
       - label: LinkedIn
-        url: https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/
+        url: 'https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/'
         style: icon
         icon: linkedin
         new_window: true
-
   - section_id: latest-posts
     type: section_posts
     title: Data journaling
@@ -46,6 +43,11 @@ sections:
     projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
-
 layout: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
