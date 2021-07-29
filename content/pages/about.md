@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: 
+subtitle: null
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
@@ -31,13 +31,12 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Hi! I'm an engineering student who likes design, data science, and web development.
 
-Hi! i'm an engineering student who likes design, data science and web developement.
+Since I was little, I have loved working in multiple fields with one thing in common: technology. That's why I have aimed my time at learning whatever I could from this field. Leveraging connections created for problem-solving.
 
-Since I was little I have loved working in multiple fields with one thing in common: technology. That's why I have aimed my time at learning whatever i could from this field. Leveraging connections created for problem solving.
- 
-Do you want to work together? i'd be happy to talk with you by email or social media. 
+Do you want to work together? I'd be happy to talk with you by email or social media!.
 
 *Thank You for reading!*
 
-Pd. In my free time I love art, this is my portfolio if you want to check it out
+Pd. In my free time, I love art, [this](https://www.behance.net/paulavelosa) is my portfolio if you want to check it out!
