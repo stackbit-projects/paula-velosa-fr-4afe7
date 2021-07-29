@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: null
-image: images/about.jpg
+image: /images/paula velosa letra y logo version 1.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
