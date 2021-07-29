@@ -2,8 +2,8 @@
 title: An example of the importance of planning
 subtitle: Planning  is definitely not underrated
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+  So here I was, regardless of a bunch of advice exalting the importance of
+  planning and think before you act, I jumped right into coding. Bad Idea
 date: '2021-07-28'
 thumb_image: images/13_thumb.jpg
 thumb_image_alt: Library shelves
