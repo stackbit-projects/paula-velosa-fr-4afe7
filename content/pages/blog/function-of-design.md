@@ -1,5 +1,5 @@
 ---
-title: 'planning is definitely no '
+title: planning is definitely not under
 subtitle: 'A interesting tale about function of design '
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
