@@ -34,6 +34,6 @@ layout: page
 
 Hi! i'm an engineering student who likes design, data science and web developement.
 
-wanna 
+Do you want to work together? reach me out by email. 
 
 *Thank You for reading!*
