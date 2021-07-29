@@ -39,3 +39,4 @@ Since I was little I have loved working in multiple fields with one thing in com
 Do you want to work together? i'd be happy to talk with you by email or social media. 
 
 *Thank You for reading!*
+
