@@ -32,6 +32,6 @@ seo:
 layout: page
 ---
 
-Hi! i'm an engineering student who likes design, 
+Hi! i'm an engineering student who likes design, data science and web developement hoping to 
 
 *Thank You for reading!*
