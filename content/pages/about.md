@@ -40,3 +40,4 @@ Do you want to work together? i'd be happy to talk with you by email or social m
 
 *Thank You for reading!*
 
+Pd. In my free time I love art, this is my portfolio if you want to check it out
