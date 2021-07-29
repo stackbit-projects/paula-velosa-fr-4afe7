@@ -34,7 +34,9 @@ layout: page
 
 Hi! i'm an engineering student who likes design, data science and web developement.
 
-Since I was little I have loved working in multiple fields with one thing in common: technology. That's why I have aimed my time at learning whatever i could from this field. Leveraging connections created for problem solving 
+Since I was little I have loved working in multiple fields with one thing in common: technology. That's why I have aimed my time at learning whatever i could from this field. Leveraging connections created for problem solving.
+
+I love art, sports and music, if you want to see more about 
  
 Do you want to work together? i'd be happy to talk with you by email or social media. 
 
