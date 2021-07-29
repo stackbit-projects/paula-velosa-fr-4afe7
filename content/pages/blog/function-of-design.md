@@ -1,5 +1,5 @@
 ---
-title: an example of the importance of planning
+title: 'a}An example of the importance of planning'
 subtitle: Planning  is definitely not underrated
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
