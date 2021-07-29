@@ -1,5 +1,5 @@
 ---
-title: planning is definitely not under
+title: planning is definitely not underated
 subtitle: 'A interesting tale about function of design '
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
