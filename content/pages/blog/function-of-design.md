@@ -1,5 +1,5 @@
 ---
-title: planning is definitely not underated
+title: an example of the importance of planning
 subtitle: 'A interesting tale about function of design '
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
