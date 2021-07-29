@@ -1,6 +1,6 @@
 ---
 title: an example of the importance of planning
-subtitle: 'A interesting tale about function of design '
+subtitle: 'planning '
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
