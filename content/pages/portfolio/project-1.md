@@ -1,5 +1,5 @@
 ---
-title: Podcast reviews sentiment clasifier
+title: Podcast reviews sentiment classifier
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/mic-1.jpg
