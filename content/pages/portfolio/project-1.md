@@ -32,7 +32,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: project
-subtitle: 'Here are my main take-aways, click here to see the project in github'
+subtitle: 'Here are my main takeaways, click here to see the project in Github'
 ---
 # Podcast reviews sentiment classifier
 
