@@ -54,8 +54,7 @@ export default class Portfolio extends React.Component {
                                 >
                                     <Action action={action} />
                                 </li>
-                            )
-                            })}
+                            
                         </ul>
                     </header>
                     <div className={`portfolio-feed layout-${layoutStyle}`}>
