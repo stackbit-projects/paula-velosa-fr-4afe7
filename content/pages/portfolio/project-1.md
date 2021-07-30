@@ -32,7 +32,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: project
-subtitle: 'Here are my main takeaways, '
+subtitle: Here are my main takeaways.
 ---
 # Podcast reviews sentiment classifier
 
