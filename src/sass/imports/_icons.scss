@@ -9,6 +9,9 @@
   height: 1em;
   line-height: 1;
   width: 1em;
+  &:before {
+    top: -8px;
+  }
 }
 
 // Custom icons
