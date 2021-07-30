@@ -42,6 +42,23 @@ export default class Portfolio extends React.Component {
                     <header className="page-header inner-sm">
                         <h1 className="page-title line-top">{title}</h1>
                         {subtitle && <div className="page-subtitle">{subtitle}</div>}
+                        <ul className="menu">
+                            {_.map(navLinks, (action, index) => {
+                                const actionUrl = _.trim(_.get(action, 'url'), '/');
+                                const actionStyle = _.get(action, 'style', 'link');
+                                return (
+                                    <li
+                                        key={index}
+                                        className={classNames('menu-item', {
+                                            'current-menu-item': pageUrl === actionUrl,
+                                            'menu-button': actionStyle !== 'link'
+                                        })}
+                                    >
+                                        <Action action={action} />
+                                    </li>
+                                )
+                            })}
+                        </ul>
                     </header>
                     <div className={`portfolio-feed layout-${layoutStyle}`}>
                         {_.map(projects, (project, index) => this.renderProject(project, index))}
