@@ -41,7 +41,7 @@ export default class Portfolio extends React.Component {
                 <div className="inner outer">
                     <header className="page-header inner-sm">
                         <h1 className="page-title line-top">{title}</h1>
-                        {subtitle && <div className="menu-item">{subtitle}</div>}
+                        {subtitle && <div className="menu">{subtitle}</div>}
                         <ul className="menu">
                             <li className="menu-item">
                             botón
