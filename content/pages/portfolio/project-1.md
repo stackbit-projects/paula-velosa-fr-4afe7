@@ -1,6 +1,5 @@
 ---
 title: Podcast reviews sentiment classifier
-subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/mic-1.jpg
 thumb_image_alt: 'White microphone, pink background'
