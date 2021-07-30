@@ -43,9 +43,7 @@ export default class Portfolio extends React.Component {
                         <h1 className="page-title line-top">{title}</h1>
                         {subtitle && <div className="page-subtitle">{subtitle}</div>}
                         <ul className="menu">
-                            {_.map(navLinks, (action, index) => {
-                                const actionUrl = _.trim(_.get(action, 'url'), '/');
-                                const actionStyle = _.get(action, 'style', 'link');
+                            
                                 return (
                                     <li
                                         key={index}
