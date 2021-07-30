@@ -58,4 +58,4 @@ subtitle: Here are my main takeaways.
 
 4.  Adding another group to the classification probably will be a good idea.
 
-# [Click here ](https://github.com/pvelosa/podcast-recomendation-system/blob/master/README.md)to access the GitHub repository <3
+### [Click here ](https://github.com/pvelosa/podcast-recomendation-system/blob/master/README.md)to access the GitHub repository <3
