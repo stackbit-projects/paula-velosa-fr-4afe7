@@ -45,7 +45,7 @@ export default class Portfolio extends React.Component {
                         <li className="menu-item">
                             botón
                             </li>
-                        {subtitle}</ul>}
+                        </ul>}
                         <ul className="menu">
                     </header>
                     <div className={`portfolio-feed layout-${layoutStyle}`}>
