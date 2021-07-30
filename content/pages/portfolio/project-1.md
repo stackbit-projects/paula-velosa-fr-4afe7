@@ -57,3 +57,5 @@ subtitle: Here are my main takeaways.
 3.  The gap between Positive and Negative reviews is pretty large, that's why the model has to be weighed to avoid errors.
 
 4.  Adding another group to the classification probably will be a good idea.
+
+# [Click here ](https://github.com/pvelosa/podcast-recomendation-system/blob/master/README.md)to access the GitHub repository <3
