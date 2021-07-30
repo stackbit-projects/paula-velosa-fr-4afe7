@@ -47,9 +47,6 @@ export default class Portfolio extends React.Component {
                             </li>
                         {subtitle}</ul>}
                         <ul className="menu">
-                            
-
-                        </ul>
                     </header>
                     <div className={`portfolio-feed layout-${layoutStyle}`}>
                         {_.map(projects, (project, index) => this.renderProject(project, index))}
