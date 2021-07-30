@@ -34,7 +34,7 @@ seo:
 layout: project
 subtitle: Here are my main takeaways.
 ---
-# Podcast reviews sentiment classifier
+#
 
 [This project](https://github.com/pvelosa/podcast-recomendation-system/) aimed to practice TF-IDF for sentiment classification in a large data set
 
@@ -57,4 +57,3 @@ subtitle: Here are my main takeaways.
 3.  The gap between Positive and Negative reviews is pretty large, that's why the model has to be weighed to avoid errors.
 
 4.  Adding another group to the classification probably will be a good idea.
-
