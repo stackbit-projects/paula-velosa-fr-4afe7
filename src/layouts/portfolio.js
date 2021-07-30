@@ -45,13 +45,14 @@ export default class Portfolio extends React.Component {
                         <ul className="menu">
                             <li
                                 key={index}
-                                className='menu-item' {
+                                className={classNames('menu-item', {
                                     'current-menu-item': pageUrl === actionUrl,
                                     'menu-button': actionStyle !== 'link'
-                                }
+                                })}
                             >
                                 <Action action={action} />
                             </li>
+
                         </ul>
                     </header>
                     <div className={`portfolio-feed layout-${layoutStyle}`}>
