@@ -43,17 +43,15 @@ export default class Portfolio extends React.Component {
                         <h1 className="page-title line-top">{title}</h1>
                         {subtitle && <div className="page-subtitle">{subtitle}</div>}
                         <ul className="menu">
-                            
-                        
-                                <li
-                                    key={index}
-                                    className={classNames('menu-item', {
-                                        'current-menu-item': pageUrl === actionUrl,
-                                        'menu-button': actionStyle !== 'link'
-                                    })}
-                                >
-                                    <Action action={action} />
-                                </li>
+                            <li
+                                key={index}
+                                className={classNames('menu-item', {
+                                    'current-menu-item': pageUrl === actionUrl,
+                                    'menu-button': actionStyle !== 'link'
+                                })}
+                            >
+                                <Action action={action} />
+                            </li>
                             
                         </ul>
                     </header>
