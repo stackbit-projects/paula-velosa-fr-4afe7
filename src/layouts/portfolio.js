@@ -45,7 +45,7 @@ export default class Portfolio extends React.Component {
                         <ul className="menu">
                             <li
                                 key={index}
-                                className='menu-item', {
+                                className='menu-item' {
                                     'current-menu-item': pageUrl === actionUrl,
                                     'menu-button': actionStyle !== 'link'
                                 }
