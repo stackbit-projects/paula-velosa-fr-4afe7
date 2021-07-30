@@ -101,29 +101,6 @@
     }
   }
 
-.menu-item-portfolio{
-  font-size: 16px;
-  line-height: 1.2;
-
-  &.current-menu-item {
-    color: _palette(accent);
-
-    .accent-green & {
-      color: _palette(accent-green);
-    }
-  
-    .accent-blue & {
-      color: _palette(accent-blue);
-    }
-  
-    .accent-violet & {
-      color: _palette(accent-violet);
-    }
-  
-    .accent-yellow & {
-      color: _palette(accent-yellow);
-    }
-  }
   a {
     &:not(.button) {
       border: 0;
