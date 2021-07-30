@@ -32,7 +32,10 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: project
-subtitle: 'Here are my main takeaways, click here to see the project in Github'
+subtitle: >-
+  Here are my main takeaways, click [This
+  project](https://github.com/pvelosa/podcast-recomendation-system/) to see the
+  project in Github
 ---
 # Podcast reviews sentiment classifier
 
