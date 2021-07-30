@@ -44,7 +44,7 @@ export default class Portfolio extends React.Component {
                         {subtitle && <div className="page-subtitle">{subtitle}</div>}
                         <ul className="menu">
                             
-                            return (
+                        
                                 <li
                                     key={index}
                                     className={classNames('menu-item', {
