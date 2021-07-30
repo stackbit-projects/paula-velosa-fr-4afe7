@@ -47,8 +47,7 @@ export default class Portfolio extends React.Component {
                                 key={index}
                                 className={classNames('menu-item', {
                                 })}
-                            >
-                                <Action action={action} />
+                            > />
                             </li>
 
                         </ul>
