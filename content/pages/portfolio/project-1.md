@@ -3,7 +3,7 @@ title: Project Title 1
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/651a4d842e24c3243b80e6e995a76458.jpg
-thumb_image_alt: 'White microphone, black, and red shoe sole'
+thumb_image_alt: 'White microphone, pink background'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
