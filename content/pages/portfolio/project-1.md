@@ -1,5 +1,5 @@
 ---
-title: 'Podcast '
+title: Podcast reviews classification
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/mic-1.jpg
