@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import { Layout } from '../components/index';
-import { getPageUrl, Link, withPrefix } from '../utils';
+import { getPageUrl, Link, withPrefix, classNames} from '../utils';
 
 export default class Portfolio extends React.Component {
     renderProject(project, index) {
