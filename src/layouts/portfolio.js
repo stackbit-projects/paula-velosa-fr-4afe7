@@ -44,7 +44,7 @@ export default class Portfolio extends React.Component {
                         {subtitle && 
                         <ul className="menu">
                             <li className="menu-item"> <a className='menu-button'>Data science</a> </li>
-                            <li className="menu-item"> <a className='menu-button'>Web development</button> </li>
+                            <li className="menu-item"> <a className='menu-button'>Web development</a> </li>
                             <li className="menu-item"> <a className='menu-button'>Art</button> </li>
                         </ul>}
                     </header>
