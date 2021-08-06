@@ -5,8 +5,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi!, I''m Paula.'
-    content: |
-      Programmer | Artist | AI enthusiast 
     actions:
       - label: Twitter
         url: 'https://twitter.com/pvelosar'
