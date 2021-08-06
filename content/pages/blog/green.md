@@ -1,6 +1,6 @@
 ---
 title: 'Starting page developement '
-subtitle: justr.
+subtitle: just starting.
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
