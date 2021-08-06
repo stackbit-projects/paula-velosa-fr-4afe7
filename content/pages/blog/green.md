@@ -1,6 +1,6 @@
 ---
 title: 'Starting page developement '
-subtitle: 'Apparently, green is my favorite color.'
+subtitle: justr.
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
