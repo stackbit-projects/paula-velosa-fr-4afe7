@@ -1,5 +1,5 @@
 ---
-title: 'Page developement '
+title: Page developement path
 subtitle: 'Apparently, green is my favorite color.'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
