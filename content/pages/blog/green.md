@@ -7,7 +7,7 @@ excerpt: >-
   nam libero justo laoreet sit.
 date: '2021-08-04'
 thumb_image_alt: A white gamepad on a green background
-image: images/5.jpg
+image: /images/575c181079f995c6f5f964c9490dacb8.jpg
 image_alt: A white gamepad on a green background
 seo:
   title: Green is my favorite color
