@@ -5,7 +5,7 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
   nam libero justo laoreet sit.
-date: '2021-08-11'
+date: '2021-08-04'
 thumb_image: images/5_thumb.jpg
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
