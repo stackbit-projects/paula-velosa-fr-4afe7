@@ -44,31 +44,33 @@ seo:
 layout: post
 thumb_image: /images/575c181079f995c6f5f964c9490dacb8.jpg
 ---
-While browsing the Internet, I came across several videos of people talking about their side businesses and showing how they achieve economic independence as just teenagers. Taking a step back from my project in data science, I decided to try my hand at building a side hustle on my own. This is a list of possible sources of income I have created based on my research and personal thoughts. 
+While browsing the Internet, I came across several videos of people talking about their side businesses and showing how they achieve economic independence as just teenagers. Taking a step back from my project in data science, I decided to try my hand at building a side hustle on my own. This is a list of possible sources of income I have created based on my research and personal thoughts.
 
 ### Before starting
 
-1.   The main takeaway of my research: Show your work, write and make a portfolio. It is the easiest way to get any money from every passion you could have 
+1.  My research's main takeaway is to try to **monetize your portfolio by providing value**. Look out for the brand's issues and solve them using your upcoming skills.
 
-2.  Social media can be monetized, for instance, You can be a Brand ambassador or try affiliate marketing.
+2.  Show your work, write and build a portfolio. It is the easiest way to get money from any  passion you may have
 
-3.  Teach whatever you are good at and monetize it, I do not know if this is that easy to do, however, it is well mentioned in a lot of videos talking about side hustles, so it is worth trying.  How to teach? Create courses or be a tutor.
+3.  Social media can be monetized!. You could, for example, be a Brand ambassador or try affiliate marketing.
 
-4.  Be a freelancer: it is the most obvious one, but it is impossible to ignore as well.
+4.  Teach whatever you are good at and monetize it, I'm not sure if this is that easy to do, however, it is mentioned in a number of videos talking about side hustles, so it is worth a shot.  How to teach? Create courses or be a tutor.
 
-### Web development 
+5.  Be a freelancer: it is the most obvious one, but it is impossible to ignore as well.
 
-1.   Create web pages/apps for local businesses and try to sell them or get a revenue share in return: in [this video](https://www.youtube.com/watch?v=wWySnxhZYsc), Kalle Hallden calls it "building for free, get paid for life", I find it a pretty good alternative because it can be a part of your portfolio as well.
+### Web development
 
-2.  Try to build your own app or web: this is the hardest one to try but, if you came up with a very good idea, it can be as profitable.
+1.  Create web pages/apps for local businesses and try to sell them or get a revenue share in return. In [this video](https://www.youtube.com/watch?v=wWySnxhZYsc), Kalle Hallden calls it "building for free, get paid for life", I find it a pretty good alternative because it may also be a part of your portfolio.
 
-3.  Create templates for components while you are creating your project. 
+2.  Attempt building your own app or web. This is the hardest one to try but, if you came up with a very good idea, it can be as profitable.
 
-### Data analysis 
+3.  Create templates for components while you are creating your project.
 
-1.  Analyze brand strategies and reach them via social media, you can create a new strategy for them that can take place in your portfolio, this is not sure money by any means.
+### Data analysis
 
-2.  Create templates for visualizing brand strategies. 
+1.  Analyze brand strategies and reach out to them via social media, you can create a new strategy for them that can take place in your portfolio; however, this is not guaranteed money.
+
+2.  Create templates for visualizing brand strategies.
 
 3.  You can be a consulter for data-driven decisions at local brands.
 
@@ -78,6 +80,6 @@ While browsing the Internet, I came across several videos of people talking abou
 
 ### Video Games
 
-1.   build your own video game
+1.  build your own video game
 
-2.  if you know how to sculpt online you can create 
+2.  if you know how to sculpt online, you can create 3d models or templates as well
