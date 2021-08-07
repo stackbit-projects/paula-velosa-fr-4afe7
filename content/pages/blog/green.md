@@ -1,5 +1,5 @@
 ---
-title: 'Enjoy programming?, here''s how to start a side business.'
+title: 'Enjoy programming?, ways to start a side business.'
 subtitle: My investigation in what side hustle to start if you enjoy programming
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
