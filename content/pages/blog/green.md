@@ -1,6 +1,6 @@
 ---
 title: 'How to : Side hustles in programming'
-subtitle: my investigation in what side hustle to build if you like programming
+subtitle: My investigation in what side hustle to start if you enjoy programming
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
