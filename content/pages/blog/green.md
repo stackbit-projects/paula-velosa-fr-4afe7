@@ -44,4 +44,4 @@ seo:
 layout: post
 thumb_image: /images/575c181079f995c6f5f964c9490dacb8.jpg
 ---
-While surfing the Internet, I came across several videos of people talking about their side businesses and showing how they achieve economic independence as just teenagers. Taking a step back from my project in data science, I decided I wanted to try building a side hustle by myself 
+While browsing the Internet, I came across several videos of people talking about their side businesses and showing how they achieve economic independence as just teenagers. Taking a step back from my project in data science, I decided to try my hand at building a side hustle on my own. This is a list of possible sources of income I have created, based on my research and personal thoughts
