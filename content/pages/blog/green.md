@@ -1,5 +1,5 @@
 ---
-title: Side hustles in programming
+title: 'How to : Side hustles in programming'
 subtitle: just starting.
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
