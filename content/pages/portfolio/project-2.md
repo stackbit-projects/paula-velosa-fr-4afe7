@@ -1,6 +1,6 @@
 ---
 title: 'Case study: Designing a website for an ecommerce '
-subtitle: 'UI/UX part of an eccomerce website '
+subtitle: UI/UX study of a fashion e
 date: '2021-09-07'
 thumb_image_alt: An orange shopping cart on a blue background
 image_alt: An orange shopping cart  on a blue background
