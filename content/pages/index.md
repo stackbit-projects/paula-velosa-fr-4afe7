@@ -26,7 +26,7 @@ sections:
         style: icon
         icon: linkedin
         new_window: true
-- section_id: latest-projects
+  - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
     title: Last projects
