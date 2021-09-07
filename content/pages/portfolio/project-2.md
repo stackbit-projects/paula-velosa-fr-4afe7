@@ -1,6 +1,6 @@
 ---
 title: 'Ecommerce website '
-subtitle: Optional Project Subtitle
+subtitle: 'UI/UX '
 date: '2019-04-30'
 thumb_image: /images/Captura de pantalla 2021-09-07 092644.jpg
 thumb_image_alt: An orange on a blue background
