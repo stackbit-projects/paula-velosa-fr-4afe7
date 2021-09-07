@@ -7,7 +7,7 @@ thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
 seo:
-  title: Taken 
+  title: Taken website 
   description: This is the project 2 description
   extra:
     - name: 'og:type'
