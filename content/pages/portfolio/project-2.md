@@ -34,10 +34,68 @@ layout: project
 thumb_image: /images/Captura de pantalla 2021-09-07 092644-b014bcd4.jpg
 image: /images/Captura de pantalla 2021-09-07 131306.png
 ---
-"Taken" is a colombian brand 
+"Taken" is an enthralling emerging colombian luxury fashion brand with a minimal yet trendy clothing line. I set out to design Taken's website, nonexistent at the moment, aiming to make it representative of Taken's identity  
+
+the challenge was standing Taken's ideology out while creating an easy to use and customer oriented website.
+
+Timeline: 24hrs
+
+Methods: Proto persona, Wireframing, UI design, Prototyping (it will be made after this project timeline)
+
+Tools: Photoshop, Figma 
 
 > "Every great design begins with an even better story." - Lorinda Mamo
 
-Tempor orci eu lobortis elementum nibh. Tincidunt dui ut ornare lectus. Sagittis purus sit amet volutpat consequat mauris nunc. Turpis egestas pretium aenean pharetra. Egestas congue quisque egestas diam. Interdum velit euismod in pellentesque massa. Sapien et ligula ullamcorper malesuada proin libero nunc. Elit at imperdiet dui accumsan sit amet nulla. Facilisi nullam vehicula ipsum a. Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper.
+## Process Outline
+
+1.  Brand Identity Research
+
+2.  User Research (ecommerce personas)
+
+3.  creating a checklist in the website prototyping
+
+4.  Wireframing
+
+5.  UI design
+
+## Brand identity Research
+
+Since this is a Fictional project, I am prototyping a brand identity from the brand's social media. (Instagram)
+
+### What defines Taken?
+
+*   Contemporary, minimal yet disruptive 
+
+*   uses beige, white and black as its main colors, while using green as a color to accentuate
+
+*   in Taken's Instagram posts, I found a strong retro inspo, mainly in its fonts, use of colors and filters.
+
+![](/images/Captura%20de%20pantalla%202021-09-07%20143347.png)
+
+## User Research&#xA;
+
+In [this article](https://www.nngroup.com/articles/ecommerce-shoppers/), we can enumerate 5 different e-commerce shoppers: Product focused, Browsers, Researchers, Bargain hunters & One-time shoppers
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+
+*
+
+*
+
+*
+
+*
 
 Risus in hendrerit gravida rutrum quisque. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Urna nec tincidunt praesent semper. Elementum nibh tellus molestie nunc non blandit massa enim. Pharetra diam sit amet nisl suscipit adipiscing bibendum est ultricies. Lorem mollis aliquam ut porttitor. Quam quisque id diam vel quam elementum pulvinar etiam non. Sed tempus urna et pharetra pharetra. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Tempor orci dapibus ultrices in iaculis nunc sed. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Eu mi bibendum neque egestas congue quisque. Integer quis auctor elit sed vulputate mi sit. Nullam ac tortor vitae purus faucibus ornare suspendisse sed.
