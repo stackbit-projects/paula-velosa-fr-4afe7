@@ -3,7 +3,7 @@ title: 'Ecommerce website '
 subtitle: 'UI/UX part of an eccomerce website '
 date: '2021-09-07'
 thumb_image: /images/Captura de pantalla 2021-09-07 092644.jpg
-thumb_image_alt: An orange on a blue background
+thumb_image_alt: An orange shopping cart on a blue background
 image: /images/Captura de pantalla 2021-09-07 092644.jpg
 image_alt: An orange on a blue background
 seo:
