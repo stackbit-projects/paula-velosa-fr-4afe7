@@ -40,9 +40,9 @@ the challenge was standing Taken's ideology out while creating an easy to use an
 
 **Timeline:** 24hrs
 
-**Methods: **Proto persona, Wire framing, UI design, Prototyping (it will be made after this project timeline)
+\*\*Methods: \*\*Proto persona, Wire framing, UI design, Prototyping (it will be made after this project timeline)
 
-**Tools: **Photoshop, Figma
+\*\*Tools: \*\*Photoshop, Figma
 
 ## Process Outline
 
@@ -82,27 +82,20 @@ In [this article](https://www.nngroup.com/articles/ecommerce-shoppers/), we can 
 
 *   Complete product descriptions
 
-
-## Wireframing 
+## Wireframing
 
 ## ![](/images/Captura%20de%20pantalla%202021-09-07%20150544.png)&#xA;
 
 Taking simplicity into consideration, I found the 6th land page prototype to be the most accurate.
 
-## &#xA;&#xA;UI Design 
-
+## &#xA;&#xA;UI Design
 
 ![](/images/Captura%20de%20pantalla%202021-09-07%20131306-d84ae280.png)
 
-
-
 I created a simple yet retro website with the brand colors and aesthetics. I edited the land page image to match the aesthetics of the brand. Then, since the goal here was to make it the most clear navigation site as I could, I went for a very simplistic use of colors, using green for the call-to-action buttons only
 
-[Here is the final Result](https://www.figma.com/proto/9XnkwMjCHF8jBZs3WbhdOE/taken?node-id=69%3A35\&scaling=scale-down-width\&page-id=0%3A1\&starting-point-node-id=69%3A35) 
+I added a wishlist page and an easy to edit shopping cart that foster revisit the webpage later and a description of clothes to make the brand more trustfully.
 
 
 
-
-
-
-
+[Here is the final Result](https://www.figma.com/proto/9XnkwMjCHF8jBZs3WbhdOE/taken?node-id=69%3A35\&scaling=scale-down-width\&page-id=0%3A1\&starting-point-node-id=69%3A35)
