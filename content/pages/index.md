@@ -26,6 +26,13 @@ sections:
         style: icon
         icon: linkedin
         new_window: true
+- section_id: latest-projects
+    type: section_portfolio
+    layout_style: mosaic
+    title: Last projects
+    projects_number: 2
+    view_all_label: View All
+    view_all_url: portfolio
   - section_id: latest-posts
     type: section_posts
     title: Data journaling
