@@ -34,17 +34,15 @@ layout: project
 thumb_image: /images/Captura de pantalla 2021-09-07 092644-b014bcd4.jpg
 image: /images/Captura de pantalla 2021-09-07 131306.png
 ---
-"Taken" is an enthralling emerging colombian luxury fashion brand with a minimal yet trendy clothing line. I set out to design Taken's website, nonexistent at the moment, aiming to make it representative of Taken's identity  
+"Taken" is an enthralling emerging Colombian luxury fashion brand with a minimal yet trendy clothing line. I set out to design Taken's website, nonexistent at the moment, aiming to make it representative of Taken's identity
 
 the challenge was standing Taken's ideology out while creating an easy to use and customer oriented website.
 
-Timeline: 24hrs
+**Timeline:** 24hrs
 
-Methods: Proto persona, Wireframing, UI design, Prototyping (it will be made after this project timeline)
+**Methods: **Proto persona, Wire framing, UI design, Prototyping (it will be made after this project timeline)
 
-Tools: Photoshop, Figma 
-
-> "Every great design begins with an even better story." - Lorinda Mamo
+**Tools: **Photoshop, Figma
 
 ## Process Outline
 
@@ -52,11 +50,9 @@ Tools: Photoshop, Figma
 
 2.  User Research (ecommerce personas)
 
-3.  creating a checklist in the website prototyping
+3.  Wireframing
 
-4.  Wireframing
-
-5.  UI design
+4.  UI design
 
 ## Brand identity Research
 
@@ -64,7 +60,7 @@ Since this is a Fictional project, I am prototyping a brand identity from the br
 
 ### What defines Taken?
 
-*   Contemporary, minimal yet disruptive 
+*   Contemporary, minimal yet disruptive
 
 *   uses beige, white and black as its main colors, while using green as a color to accentuate
 
@@ -74,28 +70,39 @@ Since this is a Fictional project, I am prototyping a brand identity from the br
 
 ## User Research&#xA;
 
-In [this article](https://www.nngroup.com/articles/ecommerce-shoppers/), we can enumerate 5 different e-commerce shoppers: Product focused, Browsers, Researchers, Bargain hunters & One-time shoppers
+From the identity research, I created a proto persona: A Latina young woman from an upper-media class in need to stand out in a semi casual date. She is used to social media and e-commerce brands.![](https://preview--paula-velosa-fr-4afe7.stackbit.dev/\_static/app-assets/images/Captura%20de%20pantalla%202021-09-07%20144313.png)
+
+In [this article](https://www.nngroup.com/articles/ecommerce-shoppers/), we can enumerate 5 different e-commerce shoppers: Product focused, Browsers, Researchers, Bargain hunters & One-time shoppers. Since it is an upcoming ecommerce website, it is pretty accurate to use them to create a customer focused UI. One of the most important insights in there were the following:
+
+*   Listings of new, popular, and sale products
+
+*   Easy-to-edit shopping carts that retain products between visits
+
+*   Clear site navigation
+
+*   Complete product descriptions
+
+
+## Wireframing 
+
+## ![](/images/Captura%20de%20pantalla%202021-09-07%20150544.png)&#xA;
+
+Taking simplicity into consideration, I found the 6th land page prototype to be the most accurate.
+
+## &#xA;&#xA;UI Design 
+
+
+![](/images/Captura%20de%20pantalla%202021-09-07%20131306-d84ae280.png)
+
+
+
+I created a simple yet retro website with the brand colors and aesthetics. I edited the land page image to match the aesthetics of the brand. Then, since the goal here was to make it the most clear navigation site as I could, I went for a very simplistic use of colors, using green for the call-to-action buttons only
+
+[Here is the final Result](https://www.figma.com/proto/9XnkwMjCHF8jBZs3WbhdOE/taken?node-id=69%3A35\&scaling=scale-down-width\&page-id=0%3A1\&starting-point-node-id=69%3A35) 
 
 
 
 
 
-*
 
 
-
-
-
-
-
-
-
-*
-
-*
-
-*
-
-*
-
-Risus in hendrerit gravida rutrum quisque. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Urna nec tincidunt praesent semper. Elementum nibh tellus molestie nunc non blandit massa enim. Pharetra diam sit amet nisl suscipit adipiscing bibendum est ultricies. Lorem mollis aliquam ut porttitor. Quam quisque id diam vel quam elementum pulvinar etiam non. Sed tempus urna et pharetra pharetra. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Tempor orci dapibus ultrices in iaculis nunc sed. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Eu mi bibendum neque egestas congue quisque. Integer quis auctor elit sed vulputate mi sit. Nullam ac tortor vitae purus faucibus ornare suspendisse sed.
