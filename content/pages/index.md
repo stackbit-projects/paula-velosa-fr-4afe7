@@ -35,13 +35,7 @@ sections:
       - label: View Blog
         url: blog
         style: button
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Last projects
-    projects_number: 2
-    view_all_label: View All
-    view_all_url: portfolio
+  
 layout: advanced
 seo:
   title: Paula Daniela Velosa Romero
