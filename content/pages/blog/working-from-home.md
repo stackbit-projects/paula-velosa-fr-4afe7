@@ -37,30 +37,30 @@ excerpt: 'I create a CV in react, These were my main takeaways'
 
 I create a CV in react, These were my main takeaways.
 
+1.  Look at the same styled elements
+
+2.  Use Json-server to create your fake REST API
+
+3.  Read the documentation
+
+4. Initialize the state before you fetch data.
+
+5.  Personalize package.json file
+
+
+
 This is a challenge for Platzi Master application. The goal: Make your CV in React. This was the final result
 
 ![](/images/cv-react.png)
 **\*\*Tools:\*\***  - React JS   - Stylus
 
-the challenge here was broken down into the following:
 
-1.  \[Create components]\(#creating-components)
 
-2.  \[Add styles]\(##Adding-styles)
-
-3.  \[Create function getData.js]\(#creating-getData.js)
-
-4.  \[Integrate  API]\(#Integrate-API)
-
-5.  \[Personalize API]\(#Personalize-API)
-
-6.  \[Document the project]\(#Documenting)
-
-##   1. Look at same styled elements  
+##    1. Look at the same styled elements 
 
  As some elements are repeated continuously,  (in my case, there were for example bullet points and titles). I styled them in the main App.styl file, so I can use them in every component. I know it sounds a bit dumb, but it saved me a lot of time
 
-## **  **2.** **use Json-server to create your fake REST API
+## \*\*  **2.** \*\*use Json-server to create your fake REST API
 
 Create a json file with your data and install json-server, then run json-server --watch db.json et voilà.
 
@@ -68,19 +68,19 @@ Create a json file with your data and install json-server, then run json-server�
 
 ## 3. Read the documentation
 
-
  Just because I didn't know how to use the server, I wasted 4 hours searching through stack overflow just to read in the challenge documentation the answer.
 
 ## &#xA;*4. Initialize the state before you fetch data.*
 
 *
-I was having trouble loading data, but I found that initializing the data I was going to use solved the problem. For example. Here I needed the name and percentage of the languages to be displayed*
+
+I was having trouble loading data, but I found that initializing the data I was going to use solved the problem. For example. Here I needed the name and percentage of the languages to be displayed\*
 
 *
+
        \* state = {
         data: {
-            'languages': {                 'name':  '',                'percentage':  '' }],        },        }*
-
+            'languages': {                 'name':  '',                'percentage':  '' }],        },        }\*
 
 ##  5. Personalize package.json file
 
