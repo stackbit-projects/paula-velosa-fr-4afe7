@@ -74,29 +74,17 @@ I was having trouble loading data, but I found that initializing the 
 
 *
 
-        state = {\\*
+       * state = {*
 
+*        data: {*
 
-        data: {\\*
+*            'languages': {*
 
+*                 'name':  '', *
 
-            'languages': {\\*
+*               'percentage':  '' *
 
-
-
-                 'name':  '', \\*
-
-
-
-               'percentage':  '' \\*
-
-
-
-```
-          }],        },        }\*
-
-
-```
+              }],        },        }
 
 ##  5. Personalize package.json file
 
