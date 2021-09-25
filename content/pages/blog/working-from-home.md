@@ -31,6 +31,7 @@ seo:
       relativeUrl: true
 layout: post
 subtitle: ' Applying to a convocatory '
+excerpt: 'I create a CV in react, These were my main takeaways'
 ---
 # **3 lessons from building a  Curriculum Vitae  with React**
 
