@@ -74,7 +74,7 @@ I was having trouble loading data, but I found that initializing the 
 
 *
 
-       \* state = {
+       /\* state = {
         data: {
             'languages': {
 
