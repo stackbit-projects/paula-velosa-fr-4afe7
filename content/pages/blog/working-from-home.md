@@ -32,11 +32,51 @@ seo:
 layout: post
 subtitle: ' Applying to a convocatory '
 ---
+# **3 lessons from building a  Curriculum Vitae  with React**
 
-Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Vitae aliquet nec ullamcorper sit. Gravida arcu ac tortor dignissim convallis aenean. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Est ultricies integer quis auctor. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Vel risus commodo viverra maecenas accumsan lacus. Donec adipiscing tristique risus nec feugiat in fermentum. Habitasse platea dictumst quisque sagittis purus sit. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Id leo in vitae turpis massa sed. Auctor elit sed vulputate mi sit. Gravida arcu ac tortor dignissim convallis aenean et.
+I create a CV in react, These were my main takeaways.
 
-## Types Of Work
+This is a challenge for Platzi Master application. The goal: Make your CV in React. This was the final result
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor augue mauris augue neque gravida in fermentum et. Eget mi proin sed libero enim sed faucibus turpis in. Semper auctor neque vitae tempus. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Et malesuada fames ac turpis egestas sed tempus urna. Tristique magna sit amet purus gravida. Lobortis elementum nibh tellus molestie. Natoque penatibus et magnis dis parturient montes nascetur. Lacus sed viverra tellus in hac habitasse platea. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Vitae congue eu consequat ac felis donec et. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. In nibh mauris cursus mattis molestie. Proin libero nunc consequat interdum varius sit amet. Molestie at elementum eu facilisis sed odio morbi quis commodo.
+![](/images/cv-react.png)
+**\*\*Tools:\*\***  - React JS   - Stylus
 
-Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Eget arcu dictum varius duis at consectetur lorem. Nec ullamcorper sit amet risus nullam eget felis. Laoreet non curabitur gravida arcu ac tortor. Cursus metus aliquam eleifend mi in. Faucibus vitae aliquet nec ullamcorper sit amet. Consectetur a erat nam at lectus urna. Porttitor eget dolor morbi non arcu risus quis varius quam. Condimentum mattis pellentesque id nibh tortor id aliquet. Augue neque gravida in fermentum..
+
+the challenge here was broken down into the following:
+
+1.  \[Create components]\(#creating-components)
+
+2.  \[Add styles]\(##Adding-styles)
+
+3.  \[Create function getData.js]\(#creating-getData.js)
+
+4.  \[Integrate  API]\(#Integrate-API)
+
+5.  \[Personalize API]\(#Personalize-API)
+
+6.  \[Document the project]\(#Documenting)
+
+**##  Look at same styled elements **  As some elements are repeated continuously,  (in my case, there were for example bullet points and titles). I styled them in the main App.styl file, so I can use them in every component. I know it sounds a bit dumb, but it saved me a lot of time 
+
+
+**##  use Json-server to create your fake REST API**
+
+Create a json file with your data and install json-server, then run json-server --watch db.json et voilà
+
+**## Read the documentation**
+ Just because I didn't know how to use the server, I wasted 4 hours searching through stack overflow just to read in the challenge documentation the answer.
+**## Initialize the state before you fetch data **
+I was having trouble loading data, but I found that initializing the data I was going to use solved the problem. For example. Here I needed the name and percentage of the languages to be displayed
+       * state = {
+        data: {
+            'languages': {                 'name':  '',                'percentage':  '' }],        },        }*
+**## Personalize package.json **
+
+Uploading npm run in package.json helps to create shortcuts you can use in the terminal. For example, I created another json file: db.json and later upload package.json 
+    *"server": "json-server --watch db.json"*
+
+this, helped me run my server much quicker because now i just had to type npm run server
+
+
+
+
