@@ -47,14 +47,10 @@ I create a CV in react, These were my main takeaways.
 
 5.  Personalize package.json file
 
-
-
 This is a challenge for Platzi Master application. The goal: Make your CV in React. This was the final result
 
 ![](/images/cv-react.png)
 **\*\*Tools:\*\***  - React JS   - Stylus
-
-
 
 ##    1. Look at the same styled elements 
 
@@ -80,7 +76,13 @@ I was having trouble loading data, but I found that initializing the 
 
        \* state = {
         data: {
-            'languages': {                 'name':  '',                'percentage':  '' }],        },        }\*
+            'languages': {
+
+                 'name':  '', 
+
+               'percentage':  '' 
+
+              }],        },        }\*
 
 ##  5. Personalize package.json file
 
